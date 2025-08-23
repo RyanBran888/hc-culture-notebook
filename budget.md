@@ -1,5 +1,5 @@
 # Budget for HC Culture Notebook
-| Item                           | Estimated Cost   |
+| Item                            | Cost            |
 |---------------------------------|-----------------|
-| Notebook                        | ~$15            |
-| Mailing costs                   | ~$80            |
+| Notebook                        | $12             |
+| Mailing costs                   | ~$100           |
